@@ -1,0 +1,21 @@
+{
+  "name": "posmotri-v-okno-fd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Привет!'",
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "fix": "prettier --write './**/*.{html,css,js}'",
+    "lint": "stylelint '**/*.css'",
+    "lintfix": "stylelint '**/*.css' --fix",
+    "checkAll": "npm run check && npm run lint",
+    "fixAll": "npm run fix && npm run lintfix"
+  },
+  "author": "Мирослава",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prettier": "^3.4.2",
+    "stylelint": "^16.12.0"
+  }
+}
