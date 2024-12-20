@@ -12,4 +12,4 @@
 ## Авторы:
 * Заготовка: Яндекс Практикум
 * Собственная версия css-кода: Мирослава Зимонина
-* Ссылка на репрезиторий: [https://github.com/miroslava70/posmotri-v-okno-fd]
+* Ссылка на репрозиторий: https://github.com/miroslava70/posmotri-v-okno-fd
